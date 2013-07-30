@@ -4,7 +4,7 @@
 
 !! menu title
 menu.title.bg: flat 
-menu.title.bg.color: #020202
+menu.title.bg.color: #f3f3f3
 
 menu.title.text.color:	#33b5e5
 menu.title.text.justify: center
@@ -29,11 +29,11 @@ menu.items.disabled.text.color: #666666
 
 !! window title
 window.active.title.bg: flat
-window.active.title.bg.color: #020202
+window.active.title.bg.color: #f3f3f3
 window.active.title.separator.color: #33b5e5
 
 window.inactive.title.bg: flat
-window.inactive.title.bg.color:  #222222
+window.inactive.title.bg.color:  #f3f3f3
 window.inactive.title.separator.color: #666666
 
 !! window text
